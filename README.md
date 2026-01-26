@@ -92,4 +92,4 @@ Normalモードで「:（コロン）」を押すとコマンドパレットが�
 ---
 
 **命名由来**
-V:Vim-based, S:Scrollable, i:infinite, M:Memo, VS:VSCode-like, SiM:Simple
+V:Vim-based, S:Scrollable, i:infinite, M:Memo, VS:VSCode-like(Design), SiM:Simple
