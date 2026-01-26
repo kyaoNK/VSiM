@@ -1,4 +1,4 @@
-# VSiM (Vim-based Scrollable infinite Memo)
+# VSiM 
 
 ## はじめに
 VSiMは、Vimの操作感をベースにした、無限にスクロールできるメモ・日記アプリです。
@@ -70,3 +70,7 @@ Normalモードで「:（コロン）」を押すと、以下のコマンドが�
 本アプリは開発中のプロトタイプです。バグもいっぱいありそうです。
 使用によって生じたデータの損失や不利益について、開発者は責任を負いかねます。
 大切なデータはこまめにバックアップを取ることをおすすめします。
+
+---
+命名由来（テキトウ）
+V:Vim-based,S:Scrollable,i:infinite,M:Memo,VS:VSCode-like,SiM:Simple
